@@ -1,4 +1,6 @@
 # 1difference between enum interface and type
+# Author : Omker patil
+# BCA : Bacholer Of Computer Application
 
 In TypeScript, `enum`, `interface`, and `type` are all used to define structures or types, but they serve different purposes. Here's an explanation of the differences between them:
 
